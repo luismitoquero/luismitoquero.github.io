@@ -3,8 +3,15 @@ title: "Papers"
 permalink: "/papers/"
 layout: page
 ---
+## Under Review
+
+- **Number neutrality is syntactically encoded: The case of Alasha Mongolian**
+- **There is only one _más_: Spanish _que/de_ comparative alternation** [pdf]
 
 ## 2022
+- **Debunking Multiform Dimensionality: _many_, _tant_-PL, & morpho-syntactic opacity**
+\[with Antonio Cleani\]
+in _Proceedings of SALT 32_
 
 ## 2021
 
