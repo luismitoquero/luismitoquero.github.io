@@ -1,11 +1,15 @@
 ---
-title: "Research"
+title: "Publications"
 permalink: "/research/"
 layout: page
-categories:
- - papers
- - conferences
 ---
+
+## 2022
+
+## 2021
+
+## 2020
+
 
 ## Installation
 
