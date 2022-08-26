@@ -1,7 +1,10 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "Research"
+permalink: "/research/"
 layout: page
+categories:
+ - papers
+ - conferences
 ---
 
 ## Installation
