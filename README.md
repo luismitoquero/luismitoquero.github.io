@@ -1,6 +1,6 @@
 ---
-title: "Publications"
-permalink: "/research/"
+title: "Papers"
+permalink: "/papers/"
 layout: page
 ---
 
