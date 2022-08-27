@@ -1,5 +1,5 @@
 ---
-title: "Papers"
+title: ""
 permalink: "/papers/"
 layout: page
 ---
@@ -9,9 +9,7 @@ layout: page
 - **There is only one _más_: Spanish _que/de_ comparative alternation** [pdf]
 
 ## 2022
-- **Debunking Multiform Dimensionality: _many_, _tant_-PL, & morpho-syntactic opacity**
-\[with Antonio Cleani\]
-in _Proceedings of SALT 32_
+- **Debunking Multiform Dimensionality: _many_, _tant_-PL, & morpho-syntactic opacity** (with Antonio Cleani) in _Proceedings of SALT 32_ [pdf]
 
 ## 2021
 
