@@ -50,7 +50,7 @@ Proceedings of *CLS* 56
 ### 2020
 
 - The semantics of Spanish compounding: an analysis of NN compounds in the Parallel Architecture.
-*Glossa* [\[pdf\]]((https://luismitoquero.github.io/papers/Toquero-Pérez_2020.pdf)
+*Glossa* [\[pdf\]](https://luismitoquero.github.io/papers/Toquero-Pérez_2020.pdf)
 
 ## Manuscripts
 
