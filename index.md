@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "Hello!"
 ---
 
 My name is Luismi and I am an assistant professor of Spanish Linguistics at California State University Fullerton in the department of Modern Languages and Literatures. My primary area of research is theoretical syntax, and its interface with semantics and morphology. I earned my PhD in linguistics from the University of Southern California in 2024.
