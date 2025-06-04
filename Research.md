@@ -13,15 +13,15 @@ The Grammar of Individuation, Number and Measurement [\[pdf\]](https://luismitoq
 (in press, *Journal of Semantics*) [\[pdf\]](https://luismitoquero.github.io/papers/ToqueroPerez-JoS-number-neutrality.pdf)
 
 - Microvariation in the grammar of comparison and measurement in Ch'ol. \[With Carol-Rose Little\]
-(in press, *International Journal of American Linguistics*)
+(in press, *International Journal of American Linguistics*) [\[pdf\]](https://luismitoquero.github.io/papers/littleEtAl_24_Microvariat.pdf)
 
 ### 2024
 
 - Superlatives, partitives and apparent 𝜑-feature mismatch in Spanish.
-*Isogloss*
+*Isogloss* [\[pdf\]](https://luismitoquero.github.io/papers/ToqueroPerez_LuisMiguel_2024_isogloss.pdf)
 
 - The significance of parasitic gap licensing by pronominal cliticization in Spanish. \[With Colin Davis\]
-Proceedings of *WCCFL* 40
+Proceedings of *WCCFL* 40 [\[pdf\]](https://luismitoquero.github.io/papers/Davis-ToqueroPerez_WCCFL_2022_proceedings.pdf)
 
 ### 2023
 
