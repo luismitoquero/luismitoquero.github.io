@@ -48,7 +48,7 @@ Proceedings of *Sinn und Bedeutung* 26 [\[pdf\]](https://luismitoquero.github.io
 ### 2020
 
 - The semantics of Spanish compounding: an analysis of NN compounds in the Parallel Architecture.
-*Glossa* [\[pdf\]](https://luismitoquero.github.io/papers/Toquero-Pérez_2020.pdf)
+*Glossa* [\[pdf\]](https://luismitoquero.github.io/papers/Toquero-Pérez-2020.pdf)
 
 ## Unpublished Manuscripts
 - *Jewelry*'s missing ``jewel'': containment, doublets and gaps as probes into countability and the count-mass distinction. (Under review) [\[pdf\]](https://luismitoquero.github.io/papers/Draft-Dec-19-2024-copy.pdf)
