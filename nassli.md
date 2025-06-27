@@ -12,4 +12,4 @@ Handout 3 [\[pdf\]](nasals/03.plurals-nassli25.pdf)
 
 Handout 4 [\[pdf\]](nasals/04.numerals-nassli25.pdf)
 
-Handout 5
+Handout 5 [\[pdf\]](nasals/05.measure-words-nassli25.pdf)
