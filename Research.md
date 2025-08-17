@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Papers, manuscripts and handouts"
 ---
 
 ## Dissertation
