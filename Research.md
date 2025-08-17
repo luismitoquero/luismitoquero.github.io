@@ -7,13 +7,16 @@ title: "Papers, manuscripts and handouts"
 The Grammar of Individuation, Number and Measurement [\[pdf\]](https://luismitoquero.github.io/papers/ToqueroPerez_LuisMiguel_PhD-dissertation2024.pdf)
 
 ## Publications
-### 2025
 
-- Accommodating number neutrality in Alasha Mongolian: Markedness and semantic interpretation.
-(in press, *Journal of Semantics*) [\[pdf\]](https://luismitoquero.github.io/papers/ToqueroPerez-JoS-number-neutrality.pdf)
+### To appear
 
 - Microvariation in the grammar of comparison and measurement in Ch'ol. \[With Carol-Rose Little\]
 (in press, *International Journal of American Linguistics*) [\[pdf\]](https://luismitoquero.github.io/papers/littleEtAl_24_Microvariat.pdf)
+
+### 2025
+
+- Accommodating number neutrality in Alasha Mongolian: Markedness and semantic interpretation.
+   *Journal of Semantics* (Online first) [\[pdf\]](https://luismitoquero.github.io/papers/ToqueroPerez-JoS-number-neutrality.pdf)
 
 ### 2024
 
@@ -51,7 +54,7 @@ Proceedings of *Sinn und Bedeutung* 26 [\[pdf\]](https://luismitoquero.github.io
 *Glossa* [\[pdf\]](https://luismitoquero.github.io/papers/Toquero-Pérez-2020.pdf)
 
 ## Unpublished Manuscripts
-- *Jewelry*'s missing ``jewel'': containment, doublets and gaps as probes into countability and the count-mass distinction. (Under review) [\[pdf\]](https://luismitoquero.github.io/papers/Draft-Dec-19-2024-copy.pdf)
+- *Jewelry*'s missing ``jewel'': containment, doublets and gaps as probes into countability and the count-mass distinction. (Under review) [\[pdf\]](https://luismitoquero.github.io/papers/Draft-Aug-17-2025-revised.pdf)
 - (Im)possible determiners. (Under review) [\[pdf\]](https://luismitoquero.github.io/papers/Impossible-Determiners copy.pdf)
 
 ## Selected handouts
