@@ -8,10 +8,13 @@ The Grammar of Individuation, Number and Measurement [\[pdf\]](https://luismitoq
 
 ## Publications
 
-### To appear
+### In press
 
 - Microvariation in the grammar of comparison and measurement in Ch'ol. \[With Carol-Rose Little\]
 (in press, *International Journal of American Linguistics*) [\[pdf\]](https://luismitoquero.github.io/papers/littleEtAl_24_Microvariat.pdf)
+
+- When your associates tag along: Associative plurality in Rural Iberian Spanish proper names. \[With Elango Kumaran\]
+(in press, Proceedings of *WCCFL* 43 [\[pdf\]](https://luismitoquero.github.io/papers/Kumaran-ToqueroPerez-wccfl43-proceedings2025.pdf) 
 
 ### 2025
 
