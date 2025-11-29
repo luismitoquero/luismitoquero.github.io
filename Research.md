@@ -13,7 +13,7 @@ The Grammar of Individuation, Number and Measurement [\[pdf\]](https://luismitoq
 - Microvariation in the grammar of comparison and measurement in Ch'ol. \[With Carol-Rose Little\]
 (in press, *International Journal of American Linguistics*) [\[pdf\]](https://luismitoquero.github.io/papers/littleEtAl_24_Microvariat.pdf)
 
-- *Jewelry*'s missing ``jewel'': containment, doublets and gaps as probes into countability and the count-mass distinction. (Under review) [\[pdf\]](https://luismitoquero.github.io/papers/papers/Toquero-Perez-2026.pdf)
+- *Jewelry*'s missing ``jewel'': containment, doublets and gaps as probes into countability and the count-mass distinction. (Under review) [\[pdf\]](https://github.com/luismitoquero/luismitoquero.github.io/blob/7d9a375846b89d010ebb5b18e684ef8ec69adca4/papers/Toquero-Perez-2026.pdf)
 
 - When your associates tag along: Associative plurality in Rural Iberian Spanish proper names. \[With Elango Kumaran\]
 (in press, Proceedings of *WCCFL* 43 [\[pdf\]](https://luismitoquero.github.io/papers/Kumaran-ToqueroPerez-wccfl43-proceedings2025.pdf) 
