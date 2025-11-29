@@ -49,7 +49,7 @@ Proceedings of *Sinn und Bedeutung* 26 [\[pdf\]](https://luismitoquero.github.io
 ### 2021
 
 - Extraction and subextraction patterns from arguments.
-*Linguistic Variation* [\[pdf\]](papers/ToqueroPérez_Luismiguel_2021_LinguisticVariation.pdf)
+*Linguistic Variation* [\[pdf\]](https://luismitoquero.github.io/papers/ToqueroPérez_Luismiguel_2021_LinguisticVariation.pdf)
 
 
 ### 2020
