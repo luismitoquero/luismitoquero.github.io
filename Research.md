@@ -8,6 +8,10 @@ The Grammar of Individuation, Number and Measurement [\[pdf\]](https://luismitoq
 
 ## Publications
 
+### In press
+
+- When your associates tag along: Associative plurality in Rural Iberian Spanish proper names. \[With Elango Kumaran\]
+(in press, Proceedings of *WCCFL* 43 [\[pdf\]](https://luismitoquero.github.io/papers/Kumaran-ToqueroPerez-wccfl43-proceedings2025.pdf) 
 
 ### 2026
 
@@ -49,7 +53,7 @@ Proceedings of *Sinn und Bedeutung* 26 [\[pdf\]](https://luismitoquero.github.io
 ### 2021
 
 - Extraction and subextraction patterns from arguments.
-*Linguistic Variation* [\[pdf\]](https://luismitoquero.github.io/papers/ToqueroPérez_Luismiguel_2021_LinguisticVariation.pdf)
+*Linguistic Variation* [\[pdf\]](https://luismitoquero.github.io/papers/papers/ToqueroPérez_Luismiguel_2021_LinguisticVariation.pdf)
 
 
 ### 2020
@@ -57,11 +61,6 @@ Proceedings of *Sinn und Bedeutung* 26 [\[pdf\]](https://luismitoquero.github.io
 - The semantics of Spanish compounding: an analysis of NN compounds in the Parallel Architecture.
 *Glossa* [\[pdf\]](https://luismitoquero.github.io/papers/Toquero-Pérez-2020.pdf)
 
-## Unpublished Manuscripts
-
-- (Im)possible determiners. (Under review) [\[pdf\]](https://luismitoquero.github.io/papers/Impossible-Determiners copy.pdf)
-- When your associates tag along: Associative plurality in Rural Iberian Spanish proper names. \[With Elango Kumaran\]
-(in press, Proceedings of *WCCFL* 43 [\[pdf\]](https://luismitoquero.github.io/papers/Kumaran-ToqueroPerez-wccfl43-proceedings2025.pdf) 
 
 ## Selected handouts
 
