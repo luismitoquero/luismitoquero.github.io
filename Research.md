@@ -8,10 +8,12 @@ The Grammar of Individuation, Number and Measurement [\[pdf\]](https://luismitoq
 
 ## Publications
 
-### In press
+### 2026
 
 - Microvariation in the grammar of comparison and measurement in Ch'ol. \[With Carol-Rose Little\]
 (in press, *International Journal of American Linguistics*) [\[pdf\]](https://luismitoquero.github.io/papers/littleEtAl_24_Microvariat.pdf)
+
+- *Jewelry*'s missing ``jewel'': containment, doublets and gaps as probes into countability and the count-mass distinction. (Under review) [\[pdf\]](https://luismitoquero.github.io/papers/papers/Toquero-Perez-2026.pdf)
 
 - When your associates tag along: Associative plurality in Rural Iberian Spanish proper names. \[With Elango Kumaran\]
 (in press, Proceedings of *WCCFL* 43 [\[pdf\]](https://luismitoquero.github.io/papers/Kumaran-ToqueroPerez-wccfl43-proceedings2025.pdf) 
@@ -57,7 +59,7 @@ Proceedings of *Sinn und Bedeutung* 26 [\[pdf\]](https://luismitoquero.github.io
 *Glossa* [\[pdf\]](https://luismitoquero.github.io/papers/Toquero-Pérez-2020.pdf)
 
 ## Unpublished Manuscripts
-- *Jewelry*'s missing ``jewel'': containment, doublets and gaps as probes into countability and the count-mass distinction. (Under review) [\[pdf\]](https://luismitoquero.github.io/papers/Draft-Aug-17-2025-revised.pdf)
+
 - (Im)possible determiners. (Under review) [\[pdf\]](https://luismitoquero.github.io/papers/Impossible-Determiners copy.pdf)
 
 ## Selected handouts
