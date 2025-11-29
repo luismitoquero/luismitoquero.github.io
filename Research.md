@@ -53,13 +53,13 @@ Proceedings of *Sinn und Bedeutung* 26 [\[pdf\]](https://luismitoquero.github.io
 ### 2021
 
 - Extraction and subextraction patterns from arguments.
-*Linguistic Variation* [\[pdf\]](https://luismitoquero.github.io/papers/papers/ToqueroPérez_Luismiguel_2021_LinguisticVariation.pdf)
+*Linguistic Variation* [\[pdf\]](https://luismitoquero.github.io/papers/papers/ToqueroPerez_Luismiguel_2021_LinguisticVariation.pdf)
 
 
 ### 2020
 
 - The semantics of Spanish compounding: an analysis of NN compounds in the Parallel Architecture.
-*Glossa* [\[pdf\]](https://luismitoquero.github.io/papers/Toquero-Pérez-2020.pdf)
+*Glossa* [\[pdf\]](https://luismitoquero.github.io/papers/Toquero-Perez-2020.pdf)
 
 
 ## Selected handouts
