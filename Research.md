@@ -8,6 +8,7 @@ The Grammar of Individuation, Number and Measurement [\[pdf\]](https://luismitoq
 
 ## Publications
 
+
 ### 2026
 
 - Microvariation in the grammar of comparison and measurement in Ch'ol. \[With Carol-Rose Little\]
@@ -15,8 +16,6 @@ The Grammar of Individuation, Number and Measurement [\[pdf\]](https://luismitoq
 
 - *Jewelry*'s missing ``jewel'': containment, doublets and gaps as probes into countability and the count-mass distinction. (Under review) [\[pdf\]](https://luismitoquero.github.io/papers/Toquero-Perez-2026.pdf)
 
-- When your associates tag along: Associative plurality in Rural Iberian Spanish proper names. \[With Elango Kumaran\]
-(in press, Proceedings of *WCCFL* 43 [\[pdf\]](https://luismitoquero.github.io/papers/Kumaran-ToqueroPerez-wccfl43-proceedings2025.pdf) 
 
 ### 2025
 
@@ -61,6 +60,8 @@ Proceedings of *Sinn und Bedeutung* 26 [\[pdf\]](https://luismitoquero.github.io
 ## Unpublished Manuscripts
 
 - (Im)possible determiners. (Under review) [\[pdf\]](https://luismitoquero.github.io/papers/Impossible-Determiners copy.pdf)
+- When your associates tag along: Associative plurality in Rural Iberian Spanish proper names. \[With Elango Kumaran\]
+(in press, Proceedings of *WCCFL* 43 [\[pdf\]](https://luismitoquero.github.io/papers/Kumaran-ToqueroPerez-wccfl43-proceedings2025.pdf) 
 
 ## Selected handouts
 
