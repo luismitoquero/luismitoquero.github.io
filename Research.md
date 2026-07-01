@@ -18,13 +18,13 @@ The Grammar of Individuation, Number and Measurement [\[pdf\]](https://luismitoq
 - Microvariation in the grammar of comparison and measurement in Ch'ol. \[With Carol-Rose Little\]
 (in press, *International Journal of American Linguistics*) [\[pdf\]](https://luismitoquero.github.io/papers/littleEtAl_24_Microvariat.pdf)
 
-- *Jewelry*'s missing ``jewel'': containment, doublets and gaps as probes into countability and the count-mass distinction. (Under review) [\[pdf\]](https://luismitoquero.github.io/papers/Toquero-Perez-2026.pdf)
+- *Jewelry*'s missing ``jewel'': containment, doublets and gaps as probes into countability and the count-mass distinction. *Natural Language and Linguistic Theory* [\[pdf\]](https://luismitoquero.github.io/papers/Toquero-Perez-2026.pdf)
 
 
 ### 2025
 
 - Accommodating number neutrality in Alasha Mongolian: Markedness and semantic interpretation.
-   *Journal of Semantics* (Online first) [\[pdf\]](https://luismitoquero.github.io/papers/ToqueroPerez-JoS-number-neutrality.pdf)
+   *Journal of Semantics*  [\[pdf\]](https://luismitoquero.github.io/papers/ToqueroPerez-JoS-number-neutrality.pdf)
 
 ### 2024
 
