@@ -15,8 +15,7 @@ The Grammar of Individuation, Number and Measurement [\[pdf\]](https://luismitoq
 
 ### 2026
 
-- Microvariation in the grammar of comparison and measurement in Ch'ol. \[With Carol-Rose Little\]
-(in press, *International Journal of American Linguistics*) [\[pdf\]](https://luismitoquero.github.io/papers/littleEtAl_24_Microvariat.pdf)
+- Microvariation in the grammar of comparison and measurement in Ch'ol. \[With Carol-Rose Little\] *International Journal of American Linguistics* [\[pdf\]](https://luismitoquero.github.io/papers/littleEtAl_24_Microvariat.pdf)
 
 - *Jewelry*'s missing ``jewel'': containment, doublets and gaps as probes into countability and the count-mass distinction. *Natural Language and Linguistic Theory* [\[pdf\]](https://luismitoquero.github.io/papers/Toquero-Perez-2026.pdf)
 
