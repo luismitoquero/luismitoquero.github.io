@@ -11,13 +11,13 @@ The Grammar of Individuation, Number and Measurement [\[pdf\]](https://luismitoq
 ### In press
 
 - When your associates tag along: Associative plurality in Rural Iberian Spanish proper names. \[With Elango Kumaran\]
-(in press, Proceedings of *WCCFL* 43 [\[pdf\]](https://luismitoquero.github.io/papers/Kumaran-ToqueroPerez-wccfl43-proceedings2025.pdf) 
+(in press, Proceedings of *WCCFL*) 43 [\[pdf\]](https://luismitoquero.github.io/papers/Kumaran-ToqueroPerez-wccfl43-proceedings2025.pdf) 
 
 ### 2026
 
 - Microvariation in the grammar of comparison and measurement in Ch'ol. \[With Carol-Rose Little\] *International Journal of American Linguistics* [\[pdf\]](https://luismitoquero.github.io/papers/littleEtAl_24_Microvariat.pdf)
 
-- *Jewelry*'s missing ``jewel'': containment, doublets and gaps as probes into countability and the count-mass distinction. *Natural Language and Linguistic Theory* [\[pdf\]](https://luismitoquero.github.io/papers/Toquero-Perez-2026.pdf)
+- *Jewelry*'s missing ''jewel'': containment, doublets and gaps as probes into countability and the count-mass distinction. *Natural Language and Linguistic Theory* [\[pdf\]](https://luismitoquero.github.io/papers/Toquero-Perez-2026.pdf)
 
 
 ### 2025
@@ -52,7 +52,7 @@ Proceedings of *Sinn und Bedeutung* 26 [\[pdf\]](https://luismitoquero.github.io
 ### 2021
 
 - Extraction and subextraction patterns from arguments.
-*Linguistic Variation* [\[pdf\]](https://luismitoquero.github.io/papers/papers/ToqueroPerez_Luismiguel_2021_LinguisticVariation.pdf)
+*Linguistic Variation* [\[pdf\]](https://luismitoquero.github.io/papers/papers/ToqueroPerez_2021_LV.pdf)
 
 
 ### 2020
