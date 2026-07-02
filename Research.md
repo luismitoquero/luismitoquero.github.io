@@ -58,7 +58,7 @@ Proceedings of *Sinn und Bedeutung* 26 [\[pdf\]](https://luismitoquero.github.io
 ### 2020
 
 - The semantics of Spanish compounding: an analysis of NN compounds in the Parallel Architecture.
-*Glossa* [\[pdf\]](https://luismitoquero.github.io/papers/Toquero-Perez-2020.pdf)
+*Glossa* [\[pdf\]](https://luismitoquero.github.io/papers/Toquero-Perez_2020Glossa.pdf)
 
 
 ## Selected handouts
