@@ -8,10 +8,11 @@ The Grammar of Individuation, Number and Measurement [\[pdf\]](https://luismitoq
 
 ## Publications
 
-### In press
+### To appear
+- (Im)possible determiners. *Linguistic Inquiry* [\[pdf\]](https://luismitoquero.github.io/papers/Impossible-Determiners.pdf)
 
 - When your associates tag along: Associative plurality in Rural Iberian Spanish proper names. \[With Elango Kumaran\]
-(in press, Proceedings of *WCCFL*) 43 [\[pdf\]](https://luismitoquero.github.io/papers/Kumaran-ToqueroPerez-wccfl43-proceedings2025.pdf) 
+(in press, Proceedings of *WCCFL*) 43 [\[pdf\]](https://luismitoquero.github.io/papers/Kumaran-ToqueroPerez-wccfl43-proceedings2025.pdf)
 
 ### 2026
 
